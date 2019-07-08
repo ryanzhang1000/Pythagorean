@@ -1,0 +1,50 @@
+h1, h2, h3 {
+    font-family: 'Maven Pro', sans-serif;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.calculate {
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 70px;
+    border: 10px black;
+    width: 470px;
+    background-color: rgb(235, 235, 235);
+    
+
+}
+
+body {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+    padding-right: 60px;
+    width: 750px;
+    border-radius: 30px;
+    margin: 250px;
+    background-color: maroon;
+  }
+
+  .main {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: white;
+    border-radius: 40px;
+  }
+
+  h2, h3 {
+    color: maroon;
+  }
+
+  h1 {
+    color: #808000;
+  }
+
+form {
+  line-height: 40px;
+}
